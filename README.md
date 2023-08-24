@@ -116,8 +116,6 @@ Sub stock_analyis():
     
     Next ws
     
-      
-
 End Sub
 
 
